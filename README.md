@@ -1,4 +1,4 @@
-# translation-project
+# Course project LT2326
 
 How to run the notebook:
 
